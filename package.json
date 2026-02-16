@@ -1,0 +1,22 @@
+{
+  "name": "thomasdavis",
+  "version": "1.0.0",
+  "description": "This is the resume of Abdellah Chadidi.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chadidi/json2resume.git"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "Abdellah Chadidi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chadidi/json2resume/issues"
+  },
+  "homepage": "https://github.com/chadidi/json2resume#readme"
+}

@@ -1,0 +1,203 @@
+{
+  "basics": {
+    "name": "Abdellah Chadidi",
+    "label": "Backend Developer | PHP (Laravel) | Golang",
+    "email": "chadidi97@gmail.com",
+    "phone": "00212639292178",
+    "url": "https://link.snipfeed.co/chadididev",
+    "summary": "I’m a Full-Stack Developer with over 7 years of experience building high-quality, scalable web applications. My expertise spans PHP, Laravel, MySQL, and JavaScript enabling me to deliver robust solutions across web, mobile, and interactive applications. Throughout my career, I’ve had the privilege of working on impactful projects like Airbit (+1M users) and Rwaq (+4M users), where I helped scale platforms that served large audiences and delivered seamless user experiences. At Rwaq, I implemented a video conversion and streaming solution built on AWS, ensuring high-performance video delivery to millions of users. I am passionate about code quality and performance, focusing on delivering clean, maintainable code and ensuring seamless performance from end to end. Whether it’s developing powerful backend systems with Laravel, building intuitive mobile apps with Flutter, or creating interactive experiences with Unity3D, my approach is always aimed at providing real value to the companies I work with. I thrive in remote work environments, collaborating with diverse teams to create elegant solutions that solve real-world problems. Outside of coding, I’m an avid explorer, sports enthusiast, and lifelong learner.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "MA",
+      "region": "Morocco"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "chadidi",
+        "url": "https://www.linkedin.com/in/chadidi"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Stealth Startup",
+      "position": "Co-Founder",
+      "startDate": "2024-02-01",
+      "endDate": "2025-01-01",
+      "summary": "After traveling for over a year, I decided to stay in Bali for a while and focus on this project with the support of a close friend experienced in tech sales, we built a solution to streamline recruitment and help businesses scale with talented developers. I focused on creating seamless experiences for both clients and developers.",
+      "location": "Bali, Indonesia"
+    },
+    {
+      "name": "Airbit",
+      "position": "Senior Software Engineer",
+      "startDate": "2020-02-01",
+      "endDate": "2024-01-01",
+      "summary": "I started my journey at Airbit as a Software Engineer and quickly advanced to a Senior Software Engineer, taking on increasing responsibility and leadership within the team. During my time there, I had the opportunity to oversee my own projects, collaborating with cross-functional teams to deliver high-quality solutions.",
+      "highlights": [
+        "Developed and maintained scalable and efficient software solutions, contributing to Airbit’s core platform.",
+        "Led the design and implementation of new features that enhanced user experience and platform performance.",
+        "Mentored junior engineers, providing technical guidance and fostering a collaborative environment.",
+        "Managed project timelines and resources, ensuring that milestones were met on schedule and to specification.",
+        "Collaborated closely with product managers, designers, and other engineers to ensure seamless integration and continuous improvement of the platform.",
+        "Implemented best practices for coding, testing, and deployment, driving quality and reliability across the platform.",
+        "Played a key role in troubleshooting and optimizing the platform, ensuring smooth and efficient operations for users."
+      ]
+    },
+    {
+      "name": "Proxify",
+      "position": "Software Engineer",
+      "startDate": "2022-12-01",
+      "endDate": "2023-08-01",
+      "summary": "During my time at Proxify, I focused on upgrading the codebase, optimizing SQL queries, and implementing CI/CD automation, ensuring a more efficient and streamlined development process. I worked closely with 4 cross-functional teams to ensure smooth execution of these changes, coordinating efforts across different departments to achieve project goals.",
+      "highlights": [
+        "Led efforts to upgrade and refactor the codebase, improving maintainability and performance.",
+        "Optimized SQL queries, significantly enhancing database efficiency and reducing load times.",
+        "Set up and streamlined CI/CD pipelines, automating build, test, and deployment processes to increase development speed and reduce errors.",
+        "Established and enforced code style standards, promoting consistency across the team and ensuring high-quality code.",
+        "Proposed and implemented a new Git flow strategy, improving collaboration and version control across teams.",
+        "Coordinated with four teams—development, QA, DevOps, and product management—to ensure the successful integration of new practices and tools."
+      ]
+    },
+    {
+      "name": "Rwaq رواق",
+      "position": "Software Engineer",
+      "startDate": "2019-03-01",
+      "endDate": "2020-02-01",
+      "summary": "As the Main Engineer at Rwaq, a leading education-focused SaaS platform in the MENA region, I played a key role in building and scaling the backend infrastructure to support a robust and seamless video streaming experience for millions of users.",
+      "highlights": [
+        "Spearheaded the use of AWS services to host, convert, and stream videos in multiple formats and quality levels, optimizing for device compatibility and performance.",
+        "Implemented a multi-tenancy database architecture, ensuring efficient and secure data management across different educational institutions using the platform.",
+        "Contributed to the development of the Flutter mobile app, enabling smooth and consistent streaming on both iOS and Android.",
+        "Enhanced the platform’s scalability and reduced latency, providing a high-quality learning experience for users across the MENA region.",
+        "Collaborated closely with cross-functional teams to drive new feature development and ensure continuous platform improvement."
+      ]
+    },
+    {
+      "name": "Ocular VR",
+      "position": "Lead Developer",
+      "startDate": "2018-01-01",
+      "endDate": "2019-02-01",
+      "location": "Palma de Mallorca, Spain",
+      "summary": "My primary focus was on designing intuitive, user-friendly interfaces that enhanced the overall VR/AR experience.",
+      "highlights": [
+        "Led the development of VR and AR applications, ensuring seamless performance across multiple platforms, including Oculus Go, Oculus Rift, Android, and iOS.",
+        "Designed and implemented intuitive, easy-to-use interfaces, making complex VR/AR experiences accessible to a broad audience.",
+        "Built and maintained robust systems to manage app deployment, monitoring, and updates.",
+        "Collaborated closely with cross-functional teams to ensure the successful execution of projects, aligning technical requirements with user needs.",
+        "Ensured high-quality standards, rigorously testing all applications to guarantee top-notch performance."
+      ]
+    },
+    {
+      "name": "Fevrok",
+      "position": "Founder & Developer",
+      "startDate": "2016-05-01",
+      "endDate": "2018-01-01",
+      "summary": "I developed a platform using Laravel (backend) and Nuxt.js (frontend) to connect freelancers and employers. The app streamlined job applications, simplified hiring workflows, and enabled seamless service transactions. Key features included customizable profiles, content sharing, social interactions, and automated job discovery. Behind the scenes, I optimized performance with Redis caching, enhanced search with Elasticsearch, and delivered personalized notifications."
+    },
+    {
+      "name": "Linaktob",
+      "position": "Web Developer",
+      "startDate": "2016-05-01",
+      "endDate": "2017-02-01",
+      "url": "https://www.linaktob.com/",
+      "summary": "In my role, I created a website similar to medium.com where folks can write and share blogs, comment, like, bookmark, and follow other users. I worked remotely on this project, collaborating with the team to ensure everything ran smoothly."
+    },
+    {
+      "name": "Tetouan agency",
+      "position": "Web Developer",
+      "startDate": "2015-02-01",
+      "endDate": "2016-01-01",
+      "location": "Tétouan Province, Morocco",
+      "summary": "While working here in my city, I tackled projects like setting up blogs on WordPress and Blogger, and creating landing pages. Most of the work I did was for small to medium-sized businesses."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Self-taught",
+      "area": "Back-end Development",
+      "startDate": "2013-01-01"
+    },
+    {
+      "institution": "Self-taught",
+      "area": "Front-end Development",
+      "startDate": "2012-01-01"
+    },
+    {
+      "institution": "Self-taught",
+      "area": "iOS Development",
+      "startDate": "2018-01-01",
+      "endDate": "2019-01-01"
+    },
+    {
+      "institution": "Self-taught",
+      "area": "AR/VR Development",
+      "startDate": "2018-01-01",
+      "endDate": "2019-01-01"
+    },
+    {
+      "institution": "Self-taught",
+      "area": "Android Development",
+      "startDate": "2016-01-01",
+      "endDate": "2019-01-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Top Skills",
+      "keywords": [
+        "Laravel",
+        "PHP",
+        "Go (Programming Language)"
+      ]
+    },
+    {
+      "name": "Backend",
+      "keywords": [
+        "Laravel",
+        "PHP",
+        "MySQL",
+        "Redis",
+        "Elasticsearch",
+        "AWS"
+      ]
+    },
+    {
+      "name": "Frontend / Mobile",
+      "keywords": [
+        "JavaScript",
+        "Nuxt.js",
+        "Flutter",
+        "iOS",
+        "Android",
+        "Unity3D"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Arabic",
+      "fluency": "Native or Bilingual"
+    },
+    {
+      "language": "French",
+      "fluency": "Elementary"
+    },
+    {
+      "language": "English",
+      "fluency": "Full Professional"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "CCNA",
+      "issuer": ""
+    },
+    {
+      "name": "PHP Tutorial Course",
+      "issuer": ""
+    }
+  ]
+}
